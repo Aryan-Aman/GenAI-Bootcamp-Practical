@@ -1,0 +1,17 @@
+Raw Sentences
+↓
+Lowercasing
+↓
+Regex Tokenization
+↓
+Sentence-wise Token Lists
+↓
+Flatten to 2D Word List
+↓
+OneHotEncoder.fit()
+↓
+Vocabulary Learning
+↓
+One-Hot Transformation
+↓
+Binary Token Vectors

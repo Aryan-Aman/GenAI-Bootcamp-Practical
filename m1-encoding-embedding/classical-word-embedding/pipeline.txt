@@ -1,0 +1,19 @@
+Load Pretrained Word2Vec Model
+↓
+Word Lookup
+↓
+Vector Retrieval
+↓
+Similarity / Most Similar / Odd-One-Out Queries
+↓
+Analogy Vector Arithmetic
+↓
+Sentence Split into Words
+↓
+Filter In-Vocabulary Tokens
+↓
+Collect Word Vectors
+↓
+Average Vectors
+↓
+Sentence Embedding Output

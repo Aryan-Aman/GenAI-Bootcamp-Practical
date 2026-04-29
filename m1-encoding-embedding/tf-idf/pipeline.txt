@@ -1,0 +1,15 @@
+Raw Documents
+↓
+TfidfVectorizer Initialization
+↓
+Tokenization + Lowercasing
+↓
+Vocabulary Creation
+↓
+Document Frequency Calculation
+↓
+TF-IDF Weight Computation
+↓
+Sparse TF-IDF Matrix
+↓
+Dense Inspection / Vocabulary Output

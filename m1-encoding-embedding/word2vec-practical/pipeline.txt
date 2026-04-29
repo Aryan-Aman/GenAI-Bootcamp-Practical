@@ -1,0 +1,21 @@
+Text Files in ./data
+↓
+Read File Content
+↓
+Sentence Tokenization
+↓
+simple_preprocess() Cleanup
+↓
+Tokenized Sentence Corpus (list[list[str]])
+↓
+Word2Vec Initialization
+↓
+build_vocab()
+↓
+Vocabulary + Corpus Stats
+↓
+train()
+↓
+CBOW / Skip-Gram Embeddings
+↓
+Similarity / Vector Queries

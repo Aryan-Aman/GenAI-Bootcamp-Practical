@@ -1,0 +1,21 @@
+Raw Documents
+↓
+Lowercasing
+↓
+Regex Cleanup
+↓
+Word Tokenization
+↓
+Stopword Removal
+↓
+Lemmatization
+↓
+Cleaned Documents
+↓
+CountVectorizer.fit_transform()
+↓
+Vocabulary Creation
+↓
+Sparse Bag-of-Words Matrix
+↓
+Dense Inspection / Vocabulary Output
