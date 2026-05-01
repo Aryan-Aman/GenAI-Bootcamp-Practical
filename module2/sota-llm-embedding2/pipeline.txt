@@ -1,0 +1,33 @@
+Import SentenceTransformer + Suppress Warnings
+↓
+Map Environment Variables to Standard API Key Names
+↓
+Display Placeholder-Safe Key Status
+↓
+Load Open-Source Embedding Model (Fallback Loop)
+↓
+Encode Word → Dense Vector → Inspect Shape
+↓
+Encode Sentence → Dense Vector → Inspect Shape
+↓
+Define Paragraph (Available for Experimentation)
+↓
+Initialize Gemini Text Embedding Model
+↓
+Generate Gemini Text Embedding → Inspect Shape
+↓
+Load Image Bytes → Gemini Image Embedding
+↓
+Load CLIP Processor + CLIP Model
+↓
+Image → CLIP Tensor Inputs → Image Features (1, 512)
+↓
+Define Similarity Functions (Cosine / Dot / Euclidean)
+↓
+Embed Query + Documents with Gemini
+↓
+Compute Semantic Similarity Scores per Document
+↓
+Keyword Search: Tokenize → Counter → Score Overlap
+↓
+Compare Semantic vs Keyword Search Results

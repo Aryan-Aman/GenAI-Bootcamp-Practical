@@ -1,0 +1,21 @@
+Import SentenceTransformer 
+↓
+Define Candidate Hugging Face Models
+↓
+Try Loading Each Model (Fallback Loop)
+↓
+First Successful Model Selected
+↓
+Define Word Input ("laptop")
+↓
+Encode Word → Dense Vector
+↓
+Inspect Preview / Shape / Length
+↓
+Define Sentence Input
+↓
+Encode Sentence → Dense Vector
+↓
+Inspect Preview / Shape / Length
+↓
+Compare: Same Dimension, Different Semantics
